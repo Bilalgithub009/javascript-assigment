@@ -72,3 +72,26 @@ console.log(s / t)
 // q12
 // Suppose var u = 11 and var v = 3, calculate the value of u - v after adding 2 to v.
 
+var u = 11
+var v = 5
+console.log(u-v)
+
+// q13
+// For var w = 22 and var x = 5, what will be the outcome of w + (x ** 2)?
+var w = 22
+var x = 5
+console.log(w +(x **2))
+
+// q14
+// Given var y = 19 and var z = 4, determine the result of y % (z + 1).
+var y = 19
+var z = 4
+console.log(y% (z + 1))
+
+// q15
+
+// 15. If var a = 10 and var b = 3, what is the value of a * (b - 2)?
+var a = 10
+var b = 3
+console.log(a * (b - 2))
+
