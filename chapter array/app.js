@@ -74,7 +74,7 @@ console.log(student)
 
 var create = ['this' , 'is' , 'my' , 'cat']
 console.log(create)
-
+ 
 
 var out = ['keyboard' , 'mouse' , 'printer' , 'monitor']
 console.log(out)

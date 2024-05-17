@@ -95,3 +95,40 @@ var a = 10
 var b = 3
 console.log(a * (b - 2))
 
+// var student = ['bilal', 'huzaifa' , 'ali' ,'ert']
+// console.log(student.slice(1, 4));
+
+// var cities = ['karachi' , 'lahore' , 'peshawar']
+// var usercity = prompt("enter city")
+
+
+
+// var a = 'a';
+// var A = 'A';
+
+// console.log(a.toUpperCase() == A.toLowerCase())
+
+
+// var username = prompt("enter nane")
+
+// if(username.length > 3 || username.length < 12){
+//   console.log( username)
+// }else {
+//     alert("name shold be greater")
+// }
+
+var username = "basit";
+
+console.log(username[0].toUpperCase() + username.slice(1))
+console.log(username.indexOf("i"))
+console.log(username.lastIndexOf("t"))
+console.log(username.charAt(1))
+// replace
+var txt = "bilal got first position"
+txt = txt.replace("first" , "1st")
+console.log(txt);
+
+// trim
+var email = "  attari@gmail.com  ";
+console.log(email.length);
+console.log(email.trim().length)
